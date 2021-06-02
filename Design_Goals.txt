@@ -1,0 +1,16 @@
+1. Safe: 
+	- No mains voltage on board
+	- ESD protection
+	- Overvoltage protection
+	- Thermocouple fault detection
+	- Heater resistance monitoring
+2. Simple
+	- No specialty parts
+	- Arduino compatible MCU
+	- Hand solderable, no SMD
+	- 5% temperature accuracy
+3. Cheap
+	- 2 layer board
+	- Few ICs
+	- 24V transformer, single secondary
+	- Onboard 5V Converter
