@@ -1,0 +1,11 @@
+Component Shopping List
+	- Electric Components
+	- Connector
+	- Display
+
+PCB Order - JLCPCB.com
+	- Export gerber files from eagle
+	- Double check with gerber viewer
+	- Upload to jlcpcb.com and order
+
+Enclosure + Transformer for Pablo
