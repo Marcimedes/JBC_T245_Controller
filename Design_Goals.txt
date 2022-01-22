@@ -1,7 +1,6 @@
 1. Safe: 
 	- No mains voltage on board
-	- ESD protection
-	- Overvoltage protection
+	- ESD + surge protection
 	- Thermocouple fault detection
 	- Heater resistance monitoring
 2. Simple
@@ -13,4 +12,3 @@
 	- 2 layer board
 	- Few ICs
 	- 24V transformer, single secondary
-	- Onboard 5V Converter
